@@ -14,7 +14,7 @@ This repository provides all the necessary code and inputs to create a galaxy an
 one must follow the instructions given in sections [DM to galaxies](https://github.com/xalolo/MAMBO/tree/main/1.%20Create%20lightcone%20(part%201)) and 
 [2. Install EGG](https://github.com/xalolo/MAMBO/tree/main/2.%20Install%20EGG).
 
-# Download and explore and existing catalogue
+# Download and explore an existing catalogue
 If you wish to download an already existing catalogue, you can find examples in [Example catalogues](https://github.com/xalolo/MAMBO/tree/main/Example%20catalogues)
 
 ## Flowchart of MAMBO:
