@@ -1,3 +1,5 @@
+## 1.- Populate DM lightcone with galaxies and AGN
+
 The notebook "MAMBO+AGN.ipynb" is used to read a dark matter(DM) lightcone, and populate the DM halos with galaxies and AGN.
 Some physical properties (such as stellar mass and X-ray luminosity of AGN) are assigned in this step, while the rest of the physical
 properties and the observables (magnitudes and SEDs) will be assigned on the next step.
