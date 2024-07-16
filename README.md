@@ -1,5 +1,5 @@
 <p align="center">
-  <img width = "350" src="docs/MAMBO_logo.png?raw=true"/>
+  <img width = "300" src="docs/MAMBO_logo.png?raw=true"/>
 </p>
 
 <h1 align="center">MAMBO: Mocks with Abundance Matching in BOlogna</h1>
