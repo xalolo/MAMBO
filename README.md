@@ -16,3 +16,9 @@ one must follow the instructions given in sections [DM to galaxies](https://gith
 
 # Download and explore and existing catalogue
 If you wish to download an already existing catalogue, you can find examples in [Example catalogues](https://github.com/xalolo/MAMBO/tree/main/Example%20catalogues)
+
+## Flowchart of MAMBO:
+
+<p align="center">
+  <img width = "800" src="docs/MAMBO_flowchart.png?raw=true"/>
+</p>
