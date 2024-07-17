@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">MAMBO: Mocks with Abundance Matching in BOlogna</h1>
 
-MAMBO (Mocks with Abundance Matching in BOlogna) is a workflow designed to construct an empirical mock catalogue of
-galaxies and AGN which can reproduce with accuracy their physical properties and observables, such as rest-frame and observed magnitudes
+MAMBO (*Mocks with Abundance Matching in BOlogna*) is a workflow designed to construct **empirical mock catalogues of
+galaxies and AGN** which can reproduce with accuracy their physical properties and observables, such as rest-frame and observed magnitudes
 and spectral features. For a schematic representation of the workflow, see the flowchart at the bottom of this page. For a detailed description, see [López-López et al.](link_to_paper).
 
 
