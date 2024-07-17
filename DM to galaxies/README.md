@@ -6,3 +6,6 @@ properties and the observables (magnitudes and SEDs) will be assigned on the nex
 
 
 All the necessary files to run this notebook can be downloaded from this public Google Drive [folder](https://drive.google.com/drive/u/1/folders/1CQN3V1aWbMQ10iu5-OfnQ8P7JIpcPhtf). The notebook should be downloaded and run in that same folder.
+
+
+<a href="https://www.google.com" target="_blank">Visit Google</a>
