@@ -1,1 +1,1 @@
-https://drive.google.com/drive/u/1/folders/1wCtz0w6afsUENeoaXexS5kMcRxHDJJ5C
+In each folder, you can find examples of catalogues generated with MAMBO, as well as the generated SEDs for some of the objects.
