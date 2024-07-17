@@ -1,4 +1,7 @@
 # MAMBO AGN Mock
+
+https://drive.google.com/drive/folders/10MMx0sJg3kFaVBqn-iNB_Vu1u3eaehUn?usp=sharing
+
 Created by Xavier Lopez Lopez, Lucia Pozzetti and Micol Bolzonella
 - This lightcone is based on a SHMR applied to DM halo and sub-halos from the Millennium simulation (Henriques 2015 lightcones)
 - Each galaxy in the mock is made of 2 components: disk and bulge, each one with a different SED assigned.
