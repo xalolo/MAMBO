@@ -9,12 +9,12 @@ and spectral features. For a schematic representation of the workflow, see the f
 
 
 
-# How to create a mock catalogue with MAMBO
-This repository provides all the necessary code and inputs to create a galaxy and AGN mock catalogue starting from a DM lightcone. For this,
-one must follow the instructions given in sections [DM to galaxies](https://github.com/xalolo/MAMBO/tree/main/1.%20Create%20lightcone%20(part%201)) and 
-[Run EGG](https://github.com/xalolo/MAMBO/tree/main/2.%20Install%20EGG).
+# Create a mock catalogue with MAMBO...
+This repository provides all the necessary code and inputs to create a galaxy+AGN mock catalogue starting from a DM lightcone. For this,
+go to [Create catalogue](https://github.com/xalolo/MAMBO/tree/main/Create%20catalogue) and follow the steps described in [DM to galaxies](https://github.com/xalolo/MAMBO/tree/main/Create%20catalogue/DM%20to%20galaxies)
+and [Run EGG](https://github.com/xalolo/MAMBO/tree/main/Create%20catalogue/Run%20EGG).
 
-# Download and explore an existing catalogue
+# ... or download and explore an existing catalogue
 If you wish to download an already existing catalogue, you can find examples in [Example catalogues](https://github.com/xalolo/MAMBO/tree/main/Example%20catalogues)
 
 ## Flowchart of MAMBO:
